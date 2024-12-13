@@ -8,3 +8,12 @@ body.login > .row > div {
     display: flex;
     align-items: center;
 }
+.btn-wine {
+    background-color: #ad63ff;
+    color: white;
+    border: 1px solid #ad63ff;
+}
+.btn-wine:hover {
+    background-color: #8a4fcc;
+
+}
